@@ -2,4 +2,4 @@
 
 AIA Test
 
-demo app photoflake.herokuapp.com
+demo app https://photoflake.herokuapp.com
